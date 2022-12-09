@@ -1,6 +1,6 @@
 # insurance
 # Problem
-Predict the price of insurance based on information about the insured person
+Predict the price of insurance based on information about the insured person <br>
 bài toán dự đoán giá tiền bảo hiểm dựa vào các thông tin về người bảo hiểm
 
 # Data Description
@@ -18,12 +18,11 @@ The dataset contains the following fields:
 
 data has been preprocessed and cleaned
 
-1. Missing values
-<br>
+- Missing values <br>
 Fill nan with mean value of the column <br>
-2. Outliers
-3. Duplicated values
-4. ...
+- Outliers
+-  Duplicated values
+- ...
 
 # Data normalization
 
