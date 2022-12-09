@@ -1,3 +1,11 @@
+
+<p>
+  <br><br>
+  <samp>
+    I'm Minh Anh :wave:
+  </samp>
+</p>
+
 # insurance
 # Problem
 Predict the price of insurance based on information about the insured person <br>
@@ -49,3 +57,5 @@ w = w - lr * gradient <br>
 - lr: learning rate <br>
 - gradient: gradient of loss function
 - w: weight of model
+
+⭐ From [Minh Anh](https://github.com/minhanh01bg)
