@@ -25,7 +25,7 @@ Fill nan with mean value of the column <br>
 - ...
 
 # Data normalization
-
+- Text values are converted to numeric values with one hot encoding method<br>
 - Values of each column are normalized to the range [0, 1] <br>
 - Values of each column are normalized with the max value of the column
 
