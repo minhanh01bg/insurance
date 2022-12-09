@@ -20,7 +20,7 @@ data has been preprocessed and cleaned
 
 1. Missing values
 <br>
-Fill nan with mean value of the column
+Fill nan with mean value of the column <br>
 2. Outliers
 3. Duplicated values
 4. ...
